@@ -40,5 +40,9 @@
 - **match_parent** = Toma TODO el espacio disponible.
 - **wrap_parent** = Toma SÓLO el espacio necesitado por su contenido. 
 
+------
+Referencia
+--------------
+https://www.youtube.com/watch?v=70-JVroY1Ng&index=36&list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa
 
 > Written with [StackEdit](https://stackedit.io/).
