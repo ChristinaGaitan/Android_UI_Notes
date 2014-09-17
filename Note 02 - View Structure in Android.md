@@ -1,7 +1,11 @@
 **View Structure in Android**
 ==========================
 
-- AL definir una UI en XML se tiene una etiqueta root la cual es un ViewGroup, esta etiqueta puede contener otras View u otros ViewGroup.
+
+- **Elemento Raíz**
+
+	- Es el elemento principal en una UI en XML dentro del cual las Views y otros ViewGroup van a ser colocados. 
+	- Es el responsable de manejar todos los elementos que contiene.
 
 - **View**
 	- Objeto rectangular que ocupa un área en la pantalla.
