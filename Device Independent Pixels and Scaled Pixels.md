@@ -50,7 +50,7 @@ Measurement Units
 
 | Atributo | Unidad | Descripción|
 | :-------: | :----: | :--- |
-| Dimensión| mm    |  Basada en el tamaño físico de la pantalla. No recomendable.|
+| Dimension| mm    |  Basada en el tamaño físico de la pantalla. No recomendable.|
 | | in   | Basada en el tamaño físico de la pantalla. No recomendable. |
 | | px    | Basada en el tamaño físico de la pantalla. No recomendable. |
 | | pt| 1/72 de una pulgada basada en el tamaño físico de la pantalla. No recomendable. |
