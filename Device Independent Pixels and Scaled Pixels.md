@@ -35,7 +35,7 @@ Screen resolution
 
 - Número de pixeles en la pantalla
 - En Android debido a la gran variedad de resoluciones en los diferentes dispositivos no tiene sentido diseñar interfaces para una sola medida
-- En Android se debe de trabajar sólo con las screen sizes y screen desities para abarcar los diferentes dispositivos. 
+- En Android se debe de trabajar sólo con las screen sizes y screen densities para abarcar los diferentes dispositivos. 
 
 ---------------------------
 Screen orientation
@@ -62,7 +62,7 @@ Measurement Units
 Density (Device) Independet Pixel
 -----------------------------------------
 
-- Se usa un pixel virtual para definir las dimensiones y posición.
+- Se usa un pixel virtual para definir las dimensiones y posición de las vistas.
 - Con esto nos evitamos tener que preocuparnos por cómo se verá la aplicación en diferentes dispositivos.
 
 | Screen density | dp | px|
