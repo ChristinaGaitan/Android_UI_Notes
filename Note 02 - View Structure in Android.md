@@ -17,3 +17,8 @@
 	- Contiene otras View.
 	- Es responsable de acomodar las vistas de una manera determinada.
 	- Ordena los otros elementos que despliegan la información (Views)
+
+------
+Referencia
+--------------
+https://www.youtube.com/watch?v=70-JVroY1Ng&index=36&list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa
