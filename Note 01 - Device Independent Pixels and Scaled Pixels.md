@@ -86,9 +86,5 @@ Scaled Pixels
 - Nos permite manejar las fuentes con la misma proporción para diferentes pantallas en diferentes dispositivos.
 
 ------
-Referencia
+[Referencia](https://www.youtube.com/watch?v=gd_7wKZiuW0&index=35&list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa)
 --------------
-https://www.youtube.com/watch?v=gd_7wKZiuW0&index=35&list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa
-
-
-> Written with [StackEdit](https://stackedit.io/).
