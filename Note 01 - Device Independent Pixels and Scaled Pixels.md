@@ -6,7 +6,7 @@ Screen size
 --------------
 
  - Medida física de la diagonal
- - 4 medidas generales: 
+ - 4 medidas generales:
 	 - small (2.8)
 	 - normal (3.1)
 	 - large (3.7)
@@ -35,7 +35,7 @@ Screen resolution
 
 - Número de pixeles en la pantalla
 - En Android debido a la gran variedad de resoluciones en los diferentes dispositivos no tiene sentido diseñar interfaces para una sola medida
-- En Android se debe de trabajar sólo con las screen sizes y screen densities para abarcar los diferentes dispositivos. 
+- En Android se debe de trabajar sólo con las screen sizes y screen densities para abarcar los diferentes dispositivos.
 
 ---------------------------
 Screen orientation
@@ -82,9 +82,10 @@ Density (Device) Independet Pixel
 Scaled Pixels
 ----------------
 - Es un pixel escalado de acuerdo a la densidad y a las preferencias del usuario.
-- Se maneja el mismo concepto de independencia de pixeles usado para fuentes.
+- Es el mismo concepto de independencia de pixeles pero ahora usado para las fuentes.
 - Nos permite manejar las fuentes con la misma proporción para diferentes pantallas en diferentes dispositivos.
 
 ------
-[Referencia](https://www.youtube.com/watch?v=gd_7wKZiuW0&index=35&list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa)
+Referencia
 --------------
+- [Device Independent Pixels and Scaled Pixels](https://www.youtube.com/watch?v=gd_7wKZiuW0&index=35&list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa)
