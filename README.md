@@ -1,8 +1,6 @@
 Android_UI_Notes
 ================
 
-Notas 01: Notas sobre el manejo de Interfaces de Usuario en Android
-
 [Tutorial: 1 Android Tutorial for Beginners [HD 1080p] de slidenerd](https://www.youtube.com/channel/UCbP2HeYGC3kfHjHLMPplZuQ)
 
 **********

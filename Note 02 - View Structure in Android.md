@@ -1,7 +1,6 @@
 **View Structure in Android**
 ==========================
 
-
 - **Elemento Raíz**
 
 	- Es el elemento principal en una UI en XML dentro del cual las Views y otros ViewGroup van a ser colocados. 
@@ -13,11 +12,12 @@
 	- Despliega información en pantalla
 
 - **ViewGroup**
-	- Objeto invisible que rodea otras vistas.
+	- Objeto rectangular invisible que rodea otras vistas.
 	- Contiene otras View.
 	- Es responsable de acomodar las vistas de una manera determinada.
 	- Ordena los otros elementos que despliegan la información (Views)
 
 ------
-[Referencia](https://www.youtube.com/watch?v=70-JVroY1Ng&index=36&list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa)
+Referencia
 --------------
+- [Android LinearLayout](https://www.youtube.com/watch?v=70-JVroY1Ng&index=36&list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa)
