@@ -84,3 +84,9 @@ Layout Weight
 	</LinearLayout>
 	```
 - Al establecer "0dp" nos aseguramos de que Android no calcule 2 veces el ancho (o el alto) del elemento, esto hace a la aplicación más rápida y precisa.
+
+------
+Referencia
+--------------
+
+- [Android LinearLayout](https://www.youtube.com/watch?v=70-JVroY1Ng&index=36&list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa)
