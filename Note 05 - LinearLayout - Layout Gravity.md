@@ -47,7 +47,7 @@ Layout_gravity con Vertical LinearLayout
 - Los valores que no tendrán efecto en este caso son, al utilizar estos valores el elemento tomará su posición por default (top|left):
   - `layout_gravity = "bottom"`
   - `layout_gravity = "center_vertical"`
-------
+	
 Referencia
 --------------
 
