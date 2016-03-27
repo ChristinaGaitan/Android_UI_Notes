@@ -1,4 +1,4 @@
-Layout Weight
+LinearLayout: Layout Weight
 ======
 - Cuando se usa `layout_width = "wrap_content"` y el elemento no tiene contenido (por ejemplo un EditText vacío), éste ocupara muy poco espacio.
 
