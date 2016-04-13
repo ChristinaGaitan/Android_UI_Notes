@@ -10,9 +10,9 @@ Relative Layout
 
 | Atributo XML (true/false) | Constante en Java (RelativeLayout class)|
 | ----: | :--- |
-| ```android:layot_centerInParent``` | ```CENTER_IN_PARENT``` |
-| ```android:layot_centerHorizontal``` | ```CENTER_HORIZONTAL``` |
-| ```android:layot_centerVertical``` | ```CENTER_VERTICAL``` |
+| ```android:layout_centerInParent``` | ```CENTER_IN_PARENT``` |
+| ```android:layout_centerHorizontal``` | ```CENTER_HORIZONTAL``` |
+| ```android:layout_centerVertical``` | ```CENTER_VERTICAL``` |
 
 
 - Alinear el egde de una vista con el Edge de su parent
@@ -24,8 +24,17 @@ Relative Layout
 | ```android:layot_alignParentLeft``` | ```ALIGN_PARENT_LEFT``` |
 | ```android:layot_alignParentRight``` | ```ALIGN_PARENT_RIGHT``` |
 
+- Definir la relación entre dos vistas
+
+| Atributo XML (ID de la vista) | Constante en Java (RelativeLayout class)|
+| ----: | :--- |
+| ```android:layout_above``` | ```ABOVE``` |
+| ```android:layout_below``` | ```BELOW``` |
+| ```android:layout_toLeftOf``` | ```RIGHT_OF``` |
+| ```android:layout_toRightOf``` | ```LEFT_OF``` |
 
 Referencias
 ------------
 - [#51 Android Tutorial For Beginners: Relative Layout Part 1 [HD 1080p]](https://www.youtube.com/watch?v=YJd_zZKzKx8&index=51&list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa&nohtml5=False)
 - [#52 Android Tutorial For Beginners: Relative Layout Part 2 [HD 1080p]](https://www.youtube.com/watch?v=EWUrl5h-VA4&list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa&index=52&nohtml5=False)
+- [#53 Android Application Development Tutorial: Relative Layout Part 3 [HD 1080p]](https://www.youtube.com/watch?v=A4ZioB3Oz8A&index=53&list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa&nohtml5=False)
