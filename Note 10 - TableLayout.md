@@ -43,7 +43,13 @@ Atributos de TableLayout
     android:shrinkColumns = "1,2"
     android:shrinkColumns = "*"
     ```
+ 
+- **android:collapseColumns:** Esconde las columnas con el índice especificado.
     
+    ```xml
+    android:collapseColumns = "2" // Esconde la columna con índice = 2
+    ```
+ 
 Atributos de cudalquier View dentro de una TableRow
 -------------------------
 
@@ -51,7 +57,7 @@ Atributos de cudalquier View dentro de una TableRow
     
     ```xml
     android:layout_span = "2" // Hace que la View abarque 2 columnas
-    android:shrinkColumns = "3" // Hace que la View abarque 3 columnas
+    android:layout_span = "3" // Hace que la View abarque 3 columnas
     ```
 
 - **android:layout_column:** Especifica el índice de la columna dentro de la cual la View aparecerá.
@@ -59,7 +65,9 @@ Atributos de cudalquier View dentro de una TableRow
     ```xml
     android:layout_column = "2" // Hace que la View aparezca dentro de la columna con índice 2
     ```
+
 Referencias
 ------------
 - [#63 Android Tutorial For Beginners: Table Layout [HD 1080p]](https://www.youtube.com/watch?v=Cp_ASAkzzVo&list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa&index=63&nohtml5=False)
 - [#64 Android Table Layout: android:stretchColumns and android:shrinkColumns [HD 1080p]](https://www.youtube.com/watch?v=KZiP73VHSwY&index=64&list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa&nohtml5=False)
+- [#65 Android Tutorials: Android TableLayout, android:layoutColumn,android:layout_span etc. [HD 1080p]](https://www.youtube.com/watch?v=DxFnSKnQ-OQ&list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa&index=65&nohtml5=False)
