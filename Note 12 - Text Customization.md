@@ -43,7 +43,7 @@ android:textSize
     android:textSize="35in"
 ```
 
-- La mejor manera de asignar el textSize es generar un archivo llamado dimensions.xml dentro de la carpeta values y poner los valores de las dimensiones ahí.
+- La mejor manera de asignar el textSize es generar un archivo llamado ```dimensions.xml``` dentro de la carpeta ```values``` y poner los valores de las dimensiones ahí.
 
 ```xml
     <resources>
@@ -80,11 +80,11 @@ android:textColor
     android:textColor="@android:color/holo_red_dark" //depende de las versiones de android
 ```
 
-- La mejor manera de asignar el textColor es generar un archivo llamado colors.xml dentro de la carpeta values y poner los valores de las dimensiones ahí.
+- La mejor manera de asignar el textColor es generar un archivo llamado ```colors.xml``` dentro de la carpeta ```values``` y poner los valores de las dimensiones ahí.
 
 ```xml
     <resources>
-        <color name="my_red">#af0000</dimen>
+        <color name="my_red">#af0000</color>
     </resources>
 ```
 
@@ -97,5 +97,4 @@ android:textColor
 
 Referencias
 ------------
-- [#66 Android GridLayout Basics: Android Tutorials [HD 1080p]](https://www.youtube.com/watch?v=TaCW4uL4P6c&index=66&list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa&nohtml5=False)
-- [#67 Android Tutorial For Beginners : Advanced Grid Layout [HD 1080p]](https://www.youtube.com/watch?v=Mkc1xQ0wsbU&index=67&list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa&nohtml5=False)
+- [#68 Android Tutorial For Beginners: Android Text Customization Part 1 [HD 1080p]](https://www.youtube.com/watch?v=H049IDor6XI&index=68&list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa&nohtml5=False)
