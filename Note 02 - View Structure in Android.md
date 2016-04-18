@@ -3,7 +3,7 @@
 
 - **Elemento Raíz**
 
-	- Es el elemento principal en una UI en XML dentro del cual las Views y otros ViewGroup van a ser colocados. 
+	- Es el elemento principal en una UI en XML dentro del cual las Views y otros ViewGroup van a ser colocados.
 	- Es el responsable de manejar todos los elementos que contiene.
 
 - **View**

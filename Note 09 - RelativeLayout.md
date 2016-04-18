@@ -1,7 +1,7 @@
 Relative Layout
 ==========================
 
-- Especifica en dÛnde se colocar· una View con respecto a otras Views o a su Parent.
+- Especifica en d√≥nde se colocar√° una View con respecto a otras Views o a su Parent.
 
 - Layout weight y layout gravity **NO** existen en este layout
 
@@ -24,7 +24,7 @@ Relative Layout
 | ```android:layot_alignParentLeft``` | ```ALIGN_PARENT_LEFT``` |
 | ```android:layot_alignParentRight``` | ```ALIGN_PARENT_RIGHT``` |
 
-- Definir la **relaciÛn** entre dos vistas
+- Definir la **relaci√≥n** entre dos vistas
 
 | Atributo XML (ID de la vista) | Constante en Java (RelativeLayout class)|
 | ----: | :--- |
@@ -33,7 +33,7 @@ Relative Layout
 | ```android:layout_toLeftOf``` | ```RIGHT_OF``` |
 | ```android:layout_toRightOf``` | ```LEFT_OF``` |
 
-- Definir la **alinaciÛn** entre dos vistas
+- Definir la **alinaci√≥n** entre dos vistas
 
 | Atributo XML (ID de la vista) | Constante en Java (RelativeLayout class)|
 | ----: | :--- |

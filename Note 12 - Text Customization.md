@@ -4,15 +4,15 @@
 | Atributo| XML | Java | Tipo de value |
 | ----: | :--- | :--- | :--- |
 | **string** | ```android:text``` | ```setText(CharSequence c)``` | Cualquier string |
-| **Font Size** | ```android:textSize``` | ```setTextSize(float f)``` | Valores de dimensión |
+| **Font Size** | ```android:textSize``` | ```setTextSize(float f)``` | Valores de dimensiÃ³n |
 | **Font Color** | ```android:textColor``` | ```setTextColor(int c)``` | Cualquier valor como #rgb, #argb, #rrggbb, #aarrggbb o un color estandar |
 | **Background Color** | No existe un atributo directo, pero se puede utilizar ```android:background``` | ```setBackgraoundColor(int c)``` | Cualquier valor de color |
 | **Font Style** | ```android:textStyle``` | ```setTypeface(Typeface t)``` | bold italic, bold italic |
-| **Font Type** | ```android:typeface``` | ´´ | normal, sans, seriff, monospace |
+| **Font Type** | ```android:typeface``` | '' | normal, sans, seriff, monospace |
 | **Shadow Color** | ```android:shadowColor``` | ```setShadowLayer(float radius, float dx, float dy, int color)``` | Cualquier valor |
-| **ShadowDx** | ```android:shadowDx``` | ´´ | Un valor flotante |
-| **ShadowDy** | ```android:shadowDy``` | ´´ |  |
-| **ShadowRadius** | ```android:shadowRadious``` | ´´ |  |
+| **ShadowDx** | ```android:shadowDx``` | '' | Un valor flotante |
+| **ShadowDy** | ```android:shadowDy``` | '' |  |
+| **ShadowRadius** | ```android:shadowRadious``` | '' |  |
 
 
 android:text
@@ -50,7 +50,7 @@ android:textSize
     android:textSize="35in"
 ```
 
-- La mejor manera de asignar el textSize es generar un archivo llamado ```dimensions.xml``` dentro de la carpeta ```values``` y poner los valores de las dimensiones ahí.
+- La mejor manera de asignar el textSize es generar un archivo llamado ```dimensions.xml``` dentro de la carpeta ```values``` y poner los valores de las dimensiones ahÃ­.
 
 ```xml
     <resources>
@@ -58,8 +58,9 @@ android:textSize
     </resources>
 ```
 
-    y así se puede utilizar en el xml como:
-    
+    y asÃ­ se puede utilizar en el xml como:
+
+
 ```xml
     android:textSize="@dimen/text_size"
 ```
@@ -87,7 +88,7 @@ android:textColor
     android:textColor="@android:color/holo_red_dark" //depende de las versiones de android
 ```
 
-- La mejor manera de asignar el textColor es generar un archivo llamado ```colors.xml``` dentro de la carpeta ```values``` y poner los valores de las dimensiones ahí.
+- La mejor manera de asignar el textColor es generar un archivo llamado ```colors.xml``` dentro de la carpeta ```values``` y poner los valores de las dimensiones ahÃ­.
 
 ```xml
     <resources>
@@ -95,7 +96,7 @@ android:textColor
     </resources>
 ```
 
-    y así se puede utilizar en el xml como:
+    y asÃ­ se puede utilizar en el xml como:
     
 ```xml
     android:textSize="@color/my_red"
