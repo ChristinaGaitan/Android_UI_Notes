@@ -7,6 +7,13 @@
 | **Font Size** | ```android:textSize``` | ```setTextSize(float f)``` | Valores de dimensi髇 |
 | **Font Color** | ```android:textColor``` | ```setTextColor(int c)``` | Cualquier valor como #rgb, #argb, #rrggbb, #aarrggbb o un color estandar |
 | **Background Color** | No existe un atributo directo, pero se puede utilizar ```android:background``` | ```setBackgraoundColor(int c)``` | Cualquier valor de color |
+| **Font Style** | ```android:textStyle``` | ```setTypeface(Typeface t)``` | bold italic, bold italic |
+| **Font Type** | ```android:typeface``` | 创 | normal, sans, seriff, monospace |
+| **Shadow Color** | ```android:shadowColor``` | ```setShadowLayer(float radius, float dx, float dy, int color)``` | Cualquier valor |
+| **ShadowDx** | ```android:shadowDx``` | 创 | Un valor flotante |
+| **ShadowDy** | ```android:shadowDy``` | 创 |  |
+| **ShadowRadius** | ```android:shadowRadious``` | 创 |  |
+
 
 android:text
 ------------
@@ -94,7 +101,31 @@ android:textColor
     android:textSize="@color/my_red"
 ```
 
+android:textStyle
+------------
+
+```xml
+    android:textStyle="bold|italic" //aplica los 2 estilos
+```
+
+android:typeface
+------------
+
+```xml
+    android:typeface="monospace" //aplica los 2 estilos
+```
+
+android:shadow
+------------
+
+```xml
+    android:shadowColor="#f00"
+    android:shadowRadius="5"
+    android:shadowDx="10"
+    android:shadowDy="5"
+```
 
 Referencias
 ------------
 - [#68 Android Tutorial For Beginners: Android Text Customization Part 1 [HD 1080p]](https://www.youtube.com/watch?v=H049IDor6XI&index=68&list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa&nohtml5=False)
+- [#69 Android Tutorial For Beginners: Android Text Customization Part 2 [HD 1080p]](https://www.youtube.com/watch?v=LHV1ltaoya4&list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa&index=69&nohtml5=False)
