@@ -17,7 +17,7 @@
 
 **Existen 2 layouts para el Spinner**
 1. ```android.R.layout.simple_spinner_item```: Usa un TextView
-2. ```android.R.layout.simple_spinner_dropdown_item```: Usa un CheckTextView
+2. ```android.R.layout.simple_spinner_dropdown_item```: Usa un CheckedTextView
 
 Se puede cambiar la view que se muestra en el Spinner utilizando el método ```setDropDownViewResource``` en el Adapter.
 
