@@ -26,8 +26,11 @@
  |
 
 ```none```: el espacio sobrante queda al final, no se distribuye.
+
 ```columnWidth```: el espacio sobrante se distribuye de manera equitativa entre las columnas (las columnas se hacen más grandes).
+
 ```spacingWidth```: el espacio sobrante se distribuye de manera equitativa entre los espacios entre columnas (los espacios se hacen más grandes).
+
 ```spacingWidthUniform```: el espacio sobrante se distribuye de manera equitativa a los lados de las columnas.
 
 Referencias
